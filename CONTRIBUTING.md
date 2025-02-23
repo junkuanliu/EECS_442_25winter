@@ -26,7 +26,7 @@ File formats: PDF (.pdf) or Markdown (.md)
 **Naming convention:**  
 PDF: lectureX_notes_yourname.pdf  
 Markdown: lectureX_notes_yourname.md  
-Example:  
+**Example:**
 ```bash
 EECS442-Notes/
 ├── notes/
