@@ -15,11 +15,11 @@ Thank you for your interest in contributing to the EECS 442 lecture notes reposi
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/EECS442-Notes.git
    cd EECS442-Notes
-   '''
+   ```
 3. **Create a new branch**
-   '''bash
+   ```bash
    git checkout -b add-notes-weekX
-   '''
+   ```
 4. **Add your notes**
 Place your lecture notes in the correct directory inside notes/.
 File formats: PDF (.pdf) or Markdown (.md)
@@ -38,14 +38,14 @@ EECS442-Notes/
 
 
 5. **Commit your changes**
-   '''bash
+   ```bash
    git add .
    git commit -m "Added notes for Week X - Lecture Y"
-   '''
+   ```
 6. Push the branch to your fork
-  '''bash
+  ```bash
   git push origin add-notes-weekX
-  '''
+  ```
 7. Submit a Pull Request (PR)
 Go to your forked repository on GitHub.
 Click on "New Pull Request."
