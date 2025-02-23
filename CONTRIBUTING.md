@@ -1,6 +1,6 @@
 # Contributing to EECS 442 Notes 📚
 
-Thank you for your interest in contributing to the EECS 442 lecture notes repository! This repository is designed for students to collaboratively share and maintain notes for the **EECS 442: Computer Vision** course at the University of Michigan. Below are the guidelines for contributing to this repository.
+Thank you for your interest in contributing to the EECS 442 notes repository! This repository is designed for students to collaboratively share and maintain notes for the **EECS 442: Computer Vision** course at the University of Michigan. Below are the guidelines for contributing to this repository.
 
 ---
 
