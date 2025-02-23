@@ -27,6 +27,7 @@ Naming convention:
 PDF: lectureX_notes_yourname.pdf
 Markdown: lectureX_notes_yourname.md
 Example:
+```bash
 EECS442-Notes/
 ├── notes/
 │   ├── Week1/
@@ -35,14 +36,14 @@ EECS442-Notes/
 │   ├── Week2/
 │   │   ├── lecture2_notes.pdf
 │   │   ├── lecture2_summary.md
+```
 
-
-5. **Commit your changes**
+6. **Commit your changes**
    ```bash
    git add .
    git commit -m "Added notes for Week X - Lecture Y"
    ```
-6. Push the branch to your fork
+7. Push the branch to your fork
   ```bash
   git push origin add-notes-weekX
   ```
