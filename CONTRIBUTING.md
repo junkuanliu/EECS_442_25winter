@@ -20,10 +20,10 @@ Thank you for your interest in contributing to the EECS 442 lecture notes reposi
    ```bash
    git checkout -b add-notes-weekX
    ```
-4. **Add your notes**
+4. **Add your notes**。
 Place your lecture notes in the correct directory inside notes/.  
 File formats: PDF (.pdf) or Markdown (.md)  
-Naming convention:  
+**Naming convention:**  
 PDF: lectureX_notes_yourname.pdf  
 Markdown: lectureX_notes_yourname.md  
 Example:  
