@@ -38,18 +38,18 @@ EECS442-Notes/
 │   │   ├── lecture2_summary.md
 ```
 
-6. **Commit your changes**
+5. **Commit your changes**
    ```bash
    git add .
    git commit -m "Added notes for Week X - Lecture Y"
    ```
-7. Push the branch to your fork
+6. **Push the branch to your fork**
   ```bash
   git push origin add-notes-weekX
   ```
-7. Submit a Pull Request (PR)
-Go to your forked repository on GitHub.
-Click on "New Pull Request."
-Select your branch and submit the PR.
-Use the following title format: [Week X] Lecture Y Notes
-Fill out the PR template to describe your changes.
+7. **Submit a Pull Request (PR)**
+Go to your forked repository on GitHub.  
+Click on "New Pull Request."  
+Select your branch and submit the PR.  
+Use the following title format: [Week X] Lecture Y Notes  
+Fill out the PR template to describe your changes.  
